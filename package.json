@@ -1,0 +1,28 @@
+{
+  "name": "transformer.iso-date",
+  "version": "0.0.1",
+  "description": "transformer type: ISO Date type.",
+  "main": "index.js",
+  "transformer": "transformer.jsonld",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "transformer",
+    "transformer-type"
+  ],
+  "dependencies": {
+    "dat-transformer": "~0.1.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbenet/transformer.iso-date.git"
+  },
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenet/transformer.iso-date/issues"
+  },
+  "homepage": "https://github.com/jbenet/transformer.iso-date"
+}

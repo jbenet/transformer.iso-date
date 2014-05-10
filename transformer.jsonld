@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "iso-date",
+ "description": "ISO Date type.",
+ "schema": "string"
+}
